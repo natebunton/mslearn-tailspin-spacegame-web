@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CSGSandbox/Space%20Game%20-%20NRB/_apis/build/status/natebunton.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/CSGSandbox/Space%20Game%20-%20NRB/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
