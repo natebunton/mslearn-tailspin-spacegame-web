@@ -62,7 +62,7 @@ steps:
     productName: 'Demo Product'
     projectRule: 'projectName'
     projectName: '$(Build.Repository.Name)'
-    WhiteSourceService: 'Whitesoruce'
+    WhiteSourceService: 'Whitesource SaaS'
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
