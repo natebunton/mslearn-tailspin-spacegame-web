@@ -57,7 +57,7 @@ steps:
 - task: WhiteSource@20
   inputs:
     cwd: '$(Build.SourcesDirectory)'
-    extensions: '.dll'
+    extensions: '*.*'
     checkPolicies: 'SEND_ALERTS'
     productName: 'tsm'
     projectRule: 'projectName'
