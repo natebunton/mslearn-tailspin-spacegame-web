@@ -61,7 +61,9 @@ steps:
     checkPolicies: 'SEND_ALERTS'
     productName: 'tsm'
     projectRule: 'projectName'
-    projectName: 'nrb_web'
+    projectName: 'nrb_web_test'
+    forceCheckAllDependencies: true
+    forceUpdate: true
     WhiteSourceService: 'Whitesource SaaS'
 
 - task: PublishBuildArtifacts@1
