@@ -59,9 +59,9 @@ steps:
     cwd: '$(Build.SourcesDirectory)'
     extensions: '.dll'
     checkPolicies: 'SEND_ALERTS'
-    productName: 'Demo Product'
+    productName: 'tsm'
     projectRule: 'projectName'
-    projectName: '$(Build.Repository.Name)'
+    projectName: 'nrb_web'
     WhiteSourceService: 'Whitesource SaaS'
 
 - task: PublishBuildArtifacts@1
