@@ -61,7 +61,7 @@ steps:
     checkPolicies: 'SEND_ALERTS'
     productName: 'tsm'
     projectRule: 'projectName'
-    projectName: 'nrb_web_test'
+    projectName: 'nrb_web_test2'
     forceCheckAllDependencies: true
     forceUpdate: true
     WhiteSourceService: 'Whitesource SaaS'
